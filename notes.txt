@@ -1,0 +1,11 @@
+- DOM concepts. Get familiar with basic objects available e.g. window, document, location etc. Also glance through the HTML objects e.g. img, a, input
+- Events .e.g click, dbclick, keypress, mouseover
+- Classes and objects in javascript
+
+
+Create analog clock
+Create digital clock
+Create a screensaver where image moves from one wall of window to another. On hitting it reflects.
+
+
+AngularJS.
